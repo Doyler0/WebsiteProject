@@ -1,0 +1,113 @@
+nav
+{
+    background-color: rebeccapurple;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li 
+{
+    list-style-type: none;
+    background-color: black;
+    display: inline;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+nav
+{
+    padding: 15px;
+}
+
+nav ul li
+{
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid purple;
+    border-radius: 10px;
+}
+
+nav ul li :hover
+{
+    background-color: rebeccapurple;
+}
+
+header
+{
+    background-image: url(../images/backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: lightsteelblue;
+    border: 1px solid blue;
+}
+
+footer
+{
+    background-color: black;
+    width: 100%;
+    position: fixed;
+}
+
+footer p
+{
+    color: white;
+    text-align: center;
+}
+
+#active {
+    border-color: white;
+}
+
+table
+{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    margin: 20px;
+}
+
+th, tr, td
+{
+    border: 1px solid black;
+    text-align: left;
+}
+
+body
+{
+    font-family: Verdana;
+    background-color: mediumpurple;
+}
+.product {
+    text-align: center;
+    border: 5px solid black;
+    margin: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#hyperlink {
+    background-color: skyblue;
+    color: skyblue;
+    border: 2px;
+}
+
+section {
+    
+}
+
+#content {
+    float: left;
+    width: 80%;
+    margin-right: 15px;
+    border: 1px solid blue;
+}
